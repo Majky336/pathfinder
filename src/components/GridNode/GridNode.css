@@ -1,0 +1,21 @@
+.node {
+    width: 20px;
+    height:  20px;
+    border: 0.1px solid darkblue;
+}
+
+.start-node {
+    background-color: chartreuse;
+}
+
+.finish-node {
+    background-color: blueviolet;
+}
+
+.wall-node {
+    background-color: darkslategray;
+}
+
+.visited-node { 
+    background-color: aqua;
+}
